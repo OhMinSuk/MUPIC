@@ -1,5 +1,12 @@
 # MUPIC (Microsoft Data School 1차 프로젝트)
+## 🎯 주요 역할
 
+- 데이터 임베딩
+- 태그 기반 음악 추천 시스템 구현
+- 데이터베이스 테이블 설계
+- Flask 및 Databricks연동
+- UI/UX 최적화
+  
 ## 🔧 분석 환경 및 도구
 
 ### 💻 분석 환경
