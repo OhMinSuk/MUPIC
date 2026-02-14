@@ -1,5 +1,5 @@
 # MUPIC (Microsoft Data School 1차 프로젝트)
-> - 📌 **시연영상**: [YouTube 링크](https://youtu.be/tczPqkuYuk4)  
+>  🎬**소개영상**: [YouTube 링크](https://youtu.be/tczPqkuYuk4)  
 ## 🎯 주요 역할
 
 - 데이터 임베딩
